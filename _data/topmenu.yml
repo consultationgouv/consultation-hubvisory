@@ -1,0 +1,11 @@
+---
+- name: LA CONSULTATION
+  link: "/laconsultation.html"
+- name: NOTRE ESPACE
+  link: "/espace.html"
+- name: LES OUTILS
+  link: "/outils.html"
+- name: LES CRITÈRES DE SÉLECTION
+  link: "/criteres.html"
+- name: CONTACT
+  link: "/contact.html"

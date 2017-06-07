@@ -1,0 +1,28 @@
+#usages h2 { max-width: 60em; margin: 1em auto; }
+#usages h3 { margin-bottom: 0; }
+#usages .ui.cards > .card > .image div { overflow: hidden; margin: 3% 5%; height: 15em; }
+#usages .ui.cards > .card > .image div img { max-width: 100%; height: auto; }
+
+@media (max-width: 768px) { #notre-espace { padding-top: 30% !important; } }
+#notre-espace { background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url("/img/working-space.jpg"); background-size: contain no-repeat; background-position: center center; color: #fff; font-size: 115%; text-align: center; padding-top: 10%; padding-bottom: 8%; }
+#notre-espace .input { min-width: 60%; margin-bottom: 3%; }
+#notre-espace h1 { padding: .2em 0; color: #fff; font-size: 220%; line-height: 1.8; text-transform: uppercase; letter-spacing: 2.5px; font-weight: 400; }
+#notre-espace h3 { font-weight: 400; max-width: 900px; margin: auto; font-size: 130%; padding: 0 0 3em; line-height: 2.5rem; letter-spacing: 2.5px; }
+#notre-espace .header-with-image { display: flex; align-items: center; justify-content: center; }
+#notre-espace .header-with-image img { margin-right: 3em; }
+#notre-espace .results { width: 100%; }
+#notre-espace .results .searchError { margin-top: 1em; }
+#notre-espace .results .result-highlight { font-weight: 600; color: black; }
+#notre-espace .poweredBy { font-size: 95%; padding: 0.5em; text-align: right; }
+#notre-espace .poweredBy img { height: 1em; position: relative; top: 0.2em; }
+
+section { padding: 5% 0; }
+section h2 { text-align: left; color: #28A7D0; }
+
+.espace-illustration { max-width: 300px; margin: auto; display: block; }
+
+.top-icons { width: 100px; margin: auto; padding: 0 0 1em; }
+
+.espace-des p { line-height: 3rem; }
+
+#espace-3 { margin-bottom: 5%; }
