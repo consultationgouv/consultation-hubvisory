@@ -1,0 +1,9 @@
+---
+- name: LE PROJET
+  link: "/leprojet.html"
+- name: L'ART DE LA CONSULTATION
+  link: "/artconsultation.html"
+- name: LES CRITÈRES DE SÉLECTION
+  link: "/criteres.html"
+- name: CONTACT
+  link: "/contact.html"
