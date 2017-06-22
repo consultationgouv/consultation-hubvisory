@@ -1,0 +1,15 @@
+---
+- name: Guide d'utilisation
+  link: "/#.html"
+- name: Mentions légales
+  link: "/#.html"
+- name: Règles de sécurité
+  link: "/#.html"
+- name: Accessibilité et aides à la navigation
+  link: "/#.html"
+- name: Documentation utile
+  link: "/#.html"
+- name: Condition générales
+  link: "/#.html"
+- name: Nous contacter
+  link: "/#.html"
