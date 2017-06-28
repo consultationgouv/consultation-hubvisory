@@ -1,7 +1,7 @@
 ---
 title: DemocracyOS
-tagline: DemocracyOS est une plateforme web qui permet de prendre des décisions de
-  manière transparente et collective.
+tagline: Plateforme web qui permet d'organiser des consultations publiques et de prendre des décisions de manière transparente et collective.
+img-bg: democracy-bg
 doc_tech: http://democracyos.eu/docs-fr/
 domain: http://democracyos.eu/
 demo: https://app.democracyos.org
@@ -19,21 +19,26 @@ owner: Open Source Politics
 access_link: https://deploiement.pprod.consultation.etalab.gouv.fr/outils/democracyos
 developer: DemocracyOS France, OpenSourcePolitics, Democracia en Red
 programming_language: Javascript (node.js)
-languages: fr, en, es
+languages: fr, en, es, de, el, fi, it, nl, hu, ua, se, al, ru
 opensource: oui
 source: https://github.com/DemocracyOS/democracyos
 date: '2017-04-04T15:57:58.478+00:00'
-atout1 : Atout 1
-atout2 : Atout 2
-atout3 : Atout 3
-feature_inclus1 : Fonctionnalité gratuite 1
-feature_inclus2 : Fonctionnalité gratuite 2
-feature_inclus3 : Fonctionnalité gratuite 3
-feature_plusloin1 : Fonctionnalité payante 1
-feature_plusloin2 : Fonctionnalité payante 2
-feature_plusloin3 : Fonctionnalité payante 3
-accompagnement_plusloin1 : Accompagnement 1
-accompagnement_plusloin2 : Accompagnement 2
-accompagnement_plusloin3 : Accompagnement 3
+atout1 : Très simple d'utilisation, rapide prise en main par les utilisateurs et les administrateurs 
+atout2 : 3 types d'interactions possibles - sondage, vote, soutien
+atout3 : Grande liberté de paramètrage - types de consultation, rôles utilisateurs etc. 
+feature_inclus1 : Nombre de débats illimité
+feature_inclus2 : Accès aux trois types d'interaction - vote, sondage et soutien
+feature_inclus3 : Export des contributions au format csv pour analyse et open data
+feature_plusloin1 : Authentification par les réseaux sociaux (Facebook et Google)
+feature_plusloin2 : Module de contribution avancé (contributions collectives, options de tri supplémentaire etc.)
+feature_plusloin3 : Gestion des utilisateurs avancées (Badges utilisateurs, exports liste utilisateurs, modération etc.) 
+accompagnement_inclus1: Pas d'accompagnement sur mesure. Toutefois, la communauté qui porte le projet DemocracyOS est disponible pour échanger, répondre à vos questions, vous donner des conseils ou encore relayer la consultation, dans la mesure du possible.
+accompagnement_plusloin1 : Conseil et accompagnement pour la création et la saisie des contenus sur la plateforme
+accompagnement_plusloin2 : Animation de la consultation (ateliers d'intelligence collective, campagne de mobilisation numérique (Facebook ads, newsletters)
+accompagnement_plusloin3 : Formation à la prise en main de la plateforme et production des synthèses complètes des contributions
 ---
-* DemocracyOS est une plateforme web qui permet de prendre des décisions de manière transparente et collective.
+* DemocracyOS est la plateforme de référence à l'international de débat et de vote en ligne. Créée en 2012 en Argentine elle a été adoptée par plus de 40 institutions officielles en France et dans le monde.
+
+* Facile d'utilisation, intuitive et rapide car construite avec les technologies web les plus modernes, DemocracyOS vous permet de lancer simplement et rapidement votre consultation.
+
+* DemocracyOS en France c'est tout un ecosystème organisé autour d'une association qui anime le réseau, fait évoluer le logiciel (100% open source) et travaille main dans la main avec des prestataires de services pour accompagner professionnellement les démarches de consultation. 
