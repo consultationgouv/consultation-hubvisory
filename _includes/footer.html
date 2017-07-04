@@ -3,11 +3,34 @@
     <div class="ui stackable grid">
     <div class="ui ten wide column">
           <div class="ui stackable grid container">
-{% for item in site.data.footer %}
-            <div class="item five wide column">
-                <a href="{{ item.link }}">{{ item.name }}</a>
-            </div>
-{% endfor %}
+            <div class="ui five wide column">
+            <h3>La plateforme</h3>
+            <ul>
+              {% for item in site.data.footer.plateforme %}
+              <li><a href="{{ item.link }}">{{ item.name }}</a></li>
+              {% endfor %}
+            </ul>
+                </div>
+
+                <div class="ui five wide column">
+            <h3>Les outils</h3>
+            <ul>
+              {% for item in site.data.footer.outils %}
+              <li><a href="{{ item.link }}">{{ item.name }}</a></li>
+              {% endfor %}
+            </ul>
+                </div>
+
+                <div class="ui five wide column">
+            <h3>La consultation</h3>
+            <ul>
+              {% for item in site.data.footer.consultation %}
+              <li><a href="{{ item.link }}">{{ item.name }}</a></li>
+              {% endfor %}
+            </ul>
+                </div>
+            
+
           </div>
         </div>
             <div id="social-icons" class="ui three wide column">

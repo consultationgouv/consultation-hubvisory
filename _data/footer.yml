@@ -1,15 +1,22 @@
 ---
-- name: Guide d'utilisation
-  link: "/#.html"
+plateforme:
+- name: Condition générales d'utilisation
+  link: "/cgu.html"
 - name: Mentions légales
-  link: "/#.html"
-- name: Règles de sécurité
-  link: "/#.html"
-- name: Accessibilité et aides à la navigation
-  link: "/#.html"
+  link: "/mentions.html"
+- name: À propos
+  link: "/leprojet.html"
+- name: Contact
+  link: "/contact.html"
+outils:
+- name: Les outils disponibles
+  link: "/lesoutils.html"
+- name: Proposer un outil
+  link: "/contact.html#soumettre-outil"
+consultation:
 - name: Documentation utile
-  link: "/#.html"
-- name: Condition générales
-  link: "/#.html"
-- name: Nous contacter
-  link: "/#.html"
+  link: "/documentation.html"
+- name: Commission nationale du débat public
+  link: "https://www.debatpublic.fr/"
+- name: Démocratie et participation
+  link: "http://www.participation-et-democratie.fr/"

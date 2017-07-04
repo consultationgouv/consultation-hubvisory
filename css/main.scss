@@ -169,6 +169,20 @@ footer {
 		border-radius: 100%;
 		padding-left: 13px;
 			 }
+			 h3 {
+				 color: $simulation-color;
+			 }
+			 li a {
+				 color: $simulation-color;
+			 }
+			 ul {
+				 list-style: none;
+				 padding: 0;
+			 }
+
+			 ul li {
+				 padding: 0.5em 0;
+			 }
 }
 .ui.image img {
     margin: auto;
