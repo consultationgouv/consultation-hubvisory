@@ -14,14 +14,14 @@ padding-top: 30% !important;
 
 
 #contact {
-  padding: 10% 0;
+  padding: 10% 0 10%;
   .ui.card .meta, .ui.cards>.card .meta {
     color: $simulation-color;
   }
   h1{
     text-transform: uppercase;
     color: $simulation-color;
-    padding: 0 0 1em;
+   
     text-align: center;
     letter-spacing: 2px;
     font-weight: 400;
@@ -34,12 +34,18 @@ padding-top: 30% !important;
 
   #contact-details {
     text-align: center;
+    padding: 3em 0 1em;
   }
 
+  h2:first-child {
+    padding-bottom: 2em;
+  }
+  
   h2 {
-    color: $simulation-color;
-    padding: 2em 0 0;
+    color: $simulation-color;    
     letter-spacing: 2px;
+    text-align: center;
+     padding: 2em 0 0.5em;
   }
   p{
     font-size: 120%;
@@ -53,6 +59,7 @@ padding-top: 30% !important;
     text-transform: uppercase;
     font-weight: 300;
     padding: 1.5em 1em;
+    margin: 1em;
   }
 
   .button.moreButton2 {
@@ -63,6 +70,7 @@ padding-top: 30% !important;
     font-weight: 300;
     border: solid 2px $simulation-color;
     padding: 1.5em 1em;
+    margin: 1em;
   }
 
 }

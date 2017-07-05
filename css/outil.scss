@@ -13,14 +13,13 @@ padding-top: 30% !important;
 }
 }
 
-
 section#list {
   padding: 10% 0 5%;
   h2 {
     color: $simulation-color;
     padding: 0 0 2em;
     text-transform: none;
-    font-size: 1.2rem;
+    text-align: center;
   }
   .ui.card, .ui.cards>.card {
     border: solid 1px $simulation-color;
@@ -172,10 +171,11 @@ padding-top: 30% !important;
 }
 }
 
-#notre-espace {
+#notre-plateforme {
   text-align: center;
   padding-top: 2%;
   padding-bottom: 0%;
+  color: $simulation-color;
 
   .input {
     min-width: 60%;
@@ -235,11 +235,6 @@ padding-top: 30% !important;
 
 section {
   padding: 5% 0;
-
-  h2 {
-    text-align: left;
-    color: $simulation-color;
-  }
 }
 
 
@@ -265,162 +260,6 @@ section {
   margin-bottom: 5%;
 }
 
-// Import from former La Consultation page
-
-@import "variables";
-@import "usage";
-
-
-
-#laconsultation {
-  font-size: 115%;
-  text-align: center;
-
-  .input {
-    min-width: 60%;
-    margin-bottom: 3%
- }
- p{
-    font-size: 120%;
-    line-height: 2em;
-    letter-spacing: 1.5px;
-    padding: 0.7em 0 2em;
-  }
-  h2 {
-    padding: 1.5em 0 0;
-    color: $simulation-color;
-    text-align: center;
-  }
-
-  h3 {
-    font-weight: 400;
-    max-width: 900px; 
-    margin: auto;
-    font-size: 130%;
-    padding: 0 0 3em;
-    line-height: 2.5rem;
-    letter-spacing: 2.5px;    
-  }
-
-  .header-with-image {
-    display: flex;
-    align-items: center;
-    justify-content: center;
-
-    img {
-      margin-right: 3em;
-    }
-  }
-
-  .results {
-    width: 100%;
-
-    .searchError {
-      margin-top: 1em;
-    }
-
-    .result-highlight {
-      font-weight: 600;
-      color: black;
-    }
-  }
-
-}
-
-
-section {
-  h2 {
-    text-align: left;
-    color: $simulation-color;
-  }
-}
-
-
-#bonnes-pratiques {
-    padding: 1% 0 8%;
-
-.ui.attached.segment {
-  border: none !important;
-}
-.consultation-card{
-  border: solid 2px $simulation-color;
-  border-radius: 6px;
-  padding: 25px;
-  margin: 5em 0 0;
-  h3{
-  text-align: center;
-}
-}
-h3{
+#espace-1 h2, #espace-2 h2, #espace-3 h2 {
   color: $simulation-color;
-}
-a.item {
-  color: $simulation-color;
-  text-transform: uppercase;
-  font-size: 110%;
-}
-.ui.secondary.pointing.menu .active.item {
-  border-color: $simulation-color;
-  border-bottom-width: 4px;
-}
-.ui.secondary.pointing.menu .item {
-  border-color: rgba(40, 167, 208, 0.3);
-}
-.consultation-ampoule {
-  width: 100px;
-  height: 100px;
-  margin: -75px auto 0;
-  background-color: #fff;
-  display: block;
-}
-.consultation-points {
-  margin: 3em 0 0;  
-  .main-point {
-    border-bottom: solid 1px $simulation-color;   
-    text-transform: uppercase; 
-    padding: 0 0 .5em;  
-  }
- 
-  ul {
-    margin: 0 0 0 2em;
-  }
-}
-.consultation-elements {
-border-left: solid 9px $simulation-color;
-margin-top: -15px;
-padding-top: 2em;
-   h3 {
-    padding-left: 2em;
-  }
-  h3::before {
-    content:'';
-    height: 20px;
-    width: 20px;
-    background-color: $simulation-color;  
-    position: absolute;
-    display: inline-block;    
-    margin-left: -2.75em;
-    border-radius: 50%;
-  }
-}
- ul li:before {
-    padding: 0 0 0 2em;
-  }
-}
-
-.laconsultation-illustration {
-  margin: 5em 0 0 5em;
-}
-
-.plus-loin {
-  border: solid 2px lightgrey;
-  border-radius: 4px;
-  margin: 8em 0 0;
-  padding: 1em;
-  h4 {
-    text-align: center;
-    font-size: 130%;
-    font-weight: 400;
-    color: $simulation-color;
-  }
 }

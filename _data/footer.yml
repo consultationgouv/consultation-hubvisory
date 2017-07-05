@@ -16,7 +16,3 @@ outils:
 consultation:
 - name: Documentation utile
   link: "/documentation.html"
-- name: Commission nationale du débat public
-  link: "https://www.debatpublic.fr/"
-- name: Démocratie et participation
-  link: "http://www.participation-et-democratie.fr/"
