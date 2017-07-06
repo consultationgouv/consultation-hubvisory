@@ -14,5 +14,7 @@ outils:
 - name: Proposer un outil
   link: "/contact.html#soumettre-outil"
 consultation:
+- name: Nos contributeurs
+  link: "leprojet.html#espace-4"
 - name: Documentation utile
-  link: "/documentation.html"
+  link: "/laconsultation.html#bonnes-pratiques"

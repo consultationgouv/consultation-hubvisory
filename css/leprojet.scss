@@ -123,14 +123,55 @@ section {
     line-height: 2rem;
   }
 }
-#espace-3 {
+#espace-4 {
   margin-bottom: 8em;
 }
 
+.twelve.wide.column {
+  text-align: center;
+}
 
-.nine.wide.column, .nine.wide.column, .nine.wide.column {
-  border: solid 2px $simulation-color;
-  padding: 4em;
-  border-radius: 5px;
-  background: #fff;
+.projet-logos {
+  width: 150px;
+  height: 150px;
+  display: inline-block;
+  margin: 1em 2em;
+  filter: grayscale(100%);
+  opacity: 0.7;
+  transition: all 1s;
+}
+
+.projet-logos:hover {
+  filter: grayscale(0%);
+    opacity: 1;
+}
+
+#projet-logo1 {
+  background: url('../../img/logo-ministere-es.jpg') center center no-repeat;
+  background-size: contain;
+}
+
+#projet-logo2 {
+  background: url('../../img/logo-cndp.jpg') center center no-repeat;
+  background-size: contain;
+}
+
+#projet-logo3 {
+  background: url('../../img/logo-fing.png') center center no-repeat;
+  background-size: contain;
+}
+
+#projet-logo4 {
+  background: url('../../img/logo-hubvisory.png') center center no-repeat;
+  background-size: contain;
+}
+
+#projet-logo5 {
+  background: url('../../img/logo-iddri.png') center center no-repeat;
+  background-size: contain;
+}
+
+#projet-logo6 {
+  background: url('../../img/logo-sgmap.jpg') center center no-repeat;
+  background-size: contain;
 }
