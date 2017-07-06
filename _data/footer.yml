@@ -12,7 +12,7 @@ outils:
 - name: Les outils disponibles
   link: "/lesoutils.html"
 - name: Proposer un outil
-  link: "/contact.html#soumettre-outil"
+  link: "/contact.html#dunno"
 consultation:
 - name: Nos contributeurs
   link: "leprojet.html#espace-4"
