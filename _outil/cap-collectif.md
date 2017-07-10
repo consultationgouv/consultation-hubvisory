@@ -21,10 +21,10 @@ date: '2017-04-04T15:57:58.478+00:00'
 atout1: Polyvalence - 6 applications participatives au sein d’une plateforme unique
 atout2: Fiabilité - depuis 2014, la plateforme a déjà été utilisée auprès de 350 000 utilisateurs avec un taux de modération inférieur à 0,1%
 atout3: Référence - cette plateforme est utilisée par 6 ministères, des collectivités, des associations et des organisations professionnelles
-feature_inclus1: Tous les fonctionnalités sont comprises gratuitement
+feature_inclus1: Toutes les fonctionnalités sont comprises gratuitement
 feature_inclus2:
 feature_inclus3: 
-feature_plusloin1: Tous les fonctionnalités sont comprises gratuitement
+feature_plusloin1: Toutes les fonctionnalités sont comprises gratuitement
 feature_plusloin2: 
 feature_plusloin3: 
 accompagnement_inclus1: Accès intégral à la plateforme avec un nombre d’utilisateurs et de projets illimités
