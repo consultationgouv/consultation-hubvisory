@@ -2,7 +2,7 @@ backend:
   name: github
   repo: consultationgouv/consultation-hubvisory
   branch: master
-  site_domain: https://consultation2.etalab.gouv.fr
+  site_domain: https://sheep-shearer-ferret-17036.netlify.com/
 media_folder: "img"
 collections:
   - name: "outil" #
